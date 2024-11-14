@@ -1,2 +1,2 @@
 # Version-Control-d197
-Implements a GitLab version control workflow, including branch management, merge conflict resolution, tagging, and retrospective documentation. Designed for a collaborative environment to track and manage changes efficiently.
+This project demonstrates essential version control practices using GitLab. The tasks include creating branches, modifying and committing files, and simulating a merge conflict to practice conflict resolution. Each step is documented with screenshots to track progress, from initial repository setup and branch creation to tagging and retrospective logging. The project’s goal is to enable seamless collaboration by managing source code effectively in a team setting, a fundamental skill for any development environment.
