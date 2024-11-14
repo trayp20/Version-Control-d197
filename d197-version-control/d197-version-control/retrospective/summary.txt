@@ -1,0 +1,16 @@
+Summary of Merge Conflict Resolution (Part E1):
+----------------------------------------------
+
+In Part E1, a merge conflict was introduced by adding the Git version number to the README.md file in both the "Working" and "Test" branches. The conflict was resolved by manually editing the README.md file to combine the changes from both branches. The conflict markers (<<<<<<<, =======, >>>>>>>) were removed, and a final version of the file was created that includes the Git version number.
+
+Description of Changes (Part C1):
+-----------------------------------
+
+In Part C1, three changes were made to HTML files on the "Working" branch:
+
+1. Deleted last two sentenced on customers paragraph in customers.html
+2. Deleted part of sentenced on Contact Us paragraph in contact.html
+3. Deleted No one works harder than Joe sentenced in team.html
+ 
+These changes were committed with meaningful messages to the "Working" branch and pushed to the remote repository on GitLab.
+

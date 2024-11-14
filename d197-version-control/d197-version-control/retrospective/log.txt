@@ -1,0 +1,54 @@
+commit c4f2f0521e4b05d0e89c7f7f254615d8e3b66e1e
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 10:22:04 2023 -0500
+
+    Create retrospective directory
+
+commit 51b6da49ec53d46705ac053d43d12008a00acf3f
+Merge: 4c172a8 e8d725b
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 09:21:30 2023 -0500
+
+    Resolve merge conflict in README.md
+
+commit 4c172a843fe1a45c8e0b4298f94ee8b0ac890595
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 09:13:55 2023 -0500
+
+    Add Git verison to README.md
+
+commit e8d725bde8d2de245e71c687d4e0a96e989eaf82
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 08:59:02 2023 -0500
+
+    add student ID to README.md
+
+commit 767c0216faf7d606b683677823d4cf57d694bf02
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 08:37:06 2023 -0500
+
+    deleted No one works harder the Joe
+
+commit de159e42bfb2e076b84abd89c7d488c6e022a9fa
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 08:33:38 2023 -0500
+
+    Deleted part of sentenced on Contact Us <p>
+
+commit bb928c4de9093acce53f98c80395e682bda25a90
+Author: tray_p <tpend32@wgu.edu>
+Date:   Sat Oct 28 08:22:33 2023 -0500
+
+    Deleted last two sentenced on customers <p>
+
+commit 194e1b48597d51a13e257693e74da80d2882b5c7
+Author: matt.alexander8 <matt@twocom.com>
+Date:   Thu Aug 24 14:47:21 2023 -0400
+
+    Added intial project
+
+commit 959a15aab3bfa9f105acbbf5d66930b053d28249
+Author: Matt Alexander <matt@twocom.com>
+Date:   Thu Aug 24 17:21:16 2023 +0000
+
+    Initial commit
